@@ -1,0 +1,28 @@
+body{
+  background-color: black;
+}
+h1,h2{
+  color:#4ecca3;
+  text-align: center;
+}
+
+h1{
+  margin: 30px;
+  font-size: 8em;
+  font-family: 'Lobster', cursive !important;
+  text-shadow: 5px 0 #232931;
+}
+h2{
+  font-family: 'Indie Flower' !important;
+  font-size: 2rem;
+}
+i{
+  color: #579D86 !important;
+}
+.pie{
+  color:white;
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
